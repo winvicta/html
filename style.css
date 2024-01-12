@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Spectral+SC:wght@300&display=swap");
+
+html {
+  font-size: 12px;
+}
+
+#first {
+  background-color: red;
+  color: blue;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+img {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 175px;
+  cursor: pointer;
+  border-radius: 0px;
+}
+
+body {
+  background-color: #566f00;
+  color: #e9f0cf;
+  margin-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+  font-family: "Spectral SC", serif;
+}
+
+h2 {
+  color: white;
+  font-size: 16px;
+  font-family: "Spectral SC", serif;
+}
+
+section {
+  background-color: #324001;
+  color: #e9f0cf;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 2px solid #1b2201;
+  width: 90%;
+}
+
+p {
+  padding: 20px;
+  font-size: 1.0rem;
+}
+
+a {
+  color: #b7ea00;
+  font-size: 1.0rem;
+}
+
+header, footer {
+  background-color: #005d6f;
+}
